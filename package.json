@@ -2,9 +2,8 @@
   "name": "my-react-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "vercel url here",
+  "homepage": ".",
   "type": "module",
-  "homepage": "https://WaqarAhmad03.github.io/Tasty-Burgers",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
